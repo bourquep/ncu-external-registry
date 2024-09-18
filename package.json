@@ -1,0 +1,11 @@
+{
+  "name": "ncu-external-registry",
+  "version": "1.0.0",
+  "description": "Repro for issue #1330",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pascal Bourque",
+  "license": "ISC"
+}
